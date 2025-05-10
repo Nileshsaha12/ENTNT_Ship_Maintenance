@@ -117,7 +117,7 @@ The application comes with three pre-configured users:
 
 ## Deployment
 
-The application is deployed and available at: [https://entnt-ship-maintenance-git-main-nilesh-sahas-projects.vercel.app](https://entnt-ship-maintenance-75sv181wi-nilesh-sahas-projects.vercel.app)
+The application is deployed and available at: [https://entnt-ship-maintenance-75sv181wi-nilesh-sahas-projects.vercel.app](https://entnt-ship-maintenance-75sv181wi-nilesh-sahas-projects.vercel.app)
 
 ## Future Enhancements
 
