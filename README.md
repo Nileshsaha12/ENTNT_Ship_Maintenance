@@ -50,8 +50,7 @@ The Ship Maintenance Dashboard is a frontend-only application that provides a co
 
 1. Clone the repository:
    ```
-   <!-- git clone https://github.com/yourusername/entnt-ship-maintenance.git -->
-   cd entnt-ship-maintenance
+   git clone https://github.com/Nileshsaha12/ENTNT_Ship_Maintenance
    ```
 
 2. Install dependencies:
@@ -118,7 +117,7 @@ The application comes with three pre-configured users:
 
 ## Deployment
 
-The application is deployed and available at: [https://entnt-ship-maintenance.vercel.app](https://entnt-ship-maintenance.vercel.app)
+The application is deployed and available at: [https://entnt-ship-maintenance-git-main-nilesh-sahas-projects.vercel.app](https://entnt-ship-maintenance-git-main-nilesh-sahas-projects.vercel.app)
 
 ## Future Enhancements
 
