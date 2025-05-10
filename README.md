@@ -119,14 +119,4 @@ The application comes with three pre-configured users:
 
 The application is deployed and available at: [https://entnt-ship-maintenance-75sv181wi-nilesh-sahas-projects.vercel.app](https://entnt-ship-maintenance-75sv181wi-nilesh-sahas-projects.vercel.app)
 
-## Future Enhancements
 
-- Dark mode support
-- Export reports functionality
-- Advanced filtering and search capabilities
-- User profile management
-- Maintenance history timeline view
-
-## License
-
-This project is licensed under the MIT License.
